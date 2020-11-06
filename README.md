@@ -159,7 +159,7 @@
   * Ny: 30
   
   
-![0](https://user-images.githubusercontent.com/69210578/98312395-638fb680-1fb0-11eb-9e58-7e8848f20629.png)
+![0](https://github.com/ooyarce/MCOC---Entrega-5/blob/main/Caso%207/Resultados/frame_0000.png)
 ![2](https://user-images.githubusercontent.com/69210578/98312396-638fb680-1fb0-11eb-9b8f-04a0702b0cb5.png)
 ![6](https://user-images.githubusercontent.com/69210578/98312397-64284d00-1fb0-11eb-8f49-d141824d5430.png)
 ![12](https://user-images.githubusercontent.com/69210578/98312390-625e8980-1fb0-11eb-92f2-f1a0ef42fb46.png)
