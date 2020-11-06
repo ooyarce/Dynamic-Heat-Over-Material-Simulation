@@ -160,11 +160,11 @@
   
   
 ![0](https://github.com/ooyarce/MCOC---Entrega-5/blob/main/Caso%207/Resultados/frame_0000.png)
-![2](https://github.com/ooyarce/MCOC---Entrega-5/blob/main/Caso%207/Resultados/frame_0002.png)
-![6](https://github.com/ooyarce/MCOC---Entrega-5/blob/main/Caso%207/Resultados/frame_0006.png)
-![12](https://github.com/ooyarce/MCOC---Entrega-5/blob/main/Caso%207/Resultados/frame_0012.png)
-![16](https://github.com/ooyarce/MCOC---Entrega-5/blob/main/Caso%207/Resultados/frame_0016.png)
-![24](https://github.com/ooyarce/MCOC---Entrega-5/blob/main/Caso%207/Resultados/frame_0024.png)
+![2](https://github.com/ooyarce/MCOC---Entrega-5/blob/main/Caso%207/Resultados/frame_0004.png)
+![6](https://github.com/ooyarce/MCOC---Entrega-5/blob/main/Caso%207/Resultados/frame_0012.png)
+![12](https://github.com/ooyarce/MCOC---Entrega-5/blob/main/Caso%207/Resultados/frame_0024.png)
+![16](https://github.com/ooyarce/MCOC---Entrega-5/blob/main/Caso%207/Resultados/frame_0032.png)
+![24](https://github.com/ooyarce/MCOC---Entrega-5/blob/main/Caso%207/Resultados/frame_0048.png)
 
 ![caso_7](https://user-images.githubusercontent.com/69210578/98313645-0f3a0600-1fb3-11eb-8528-756ed42fead3.png)
 ![caso_7](https://user-images.githubusercontent.com/69210578/98310857-c8491200-1fac-11eb-91a7-8ce775ebdfc4.gif)
