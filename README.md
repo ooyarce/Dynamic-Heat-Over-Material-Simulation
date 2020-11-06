@@ -22,7 +22,7 @@
 ![16](https://user-images.githubusercontent.com/69210578/98312117-c2a0fb80-1faf-11eb-91d8-df940a5d2099.png)
 ![24](https://user-images.githubusercontent.com/69210578/98312119-c3399200-1faf-11eb-88a4-a73a5594ef4a.png)
 
-![caso_1](https://user-images.githubusercontent.com/69210578/98310764-9637b000-1fac-11eb-8a4c-739b7f29d2f2.png)
+![caso_1](https://user-images.githubusercontent.com/69210578/98313618-02b5ad80-1fb3-11eb-9782-b38adb55df89.png)
 ![caso_1](https://user-images.githubusercontent.com/69210578/98310779-a059ae80-1fac-11eb-85c5-2d71c9177df8.gif)
 
 
@@ -46,8 +46,9 @@
 ![16](https://user-images.githubusercontent.com/69210578/98312197-faa83e80-1faf-11eb-8526-290d21b0c61a.png)
 ![24](https://user-images.githubusercontent.com/69210578/98312198-faa83e80-1faf-11eb-9ecb-2a42430f07d3.png)
   
+![caso_2](https://user-images.githubusercontent.com/69210578/98313628-06493480-1fb3-11eb-931a-8073953778d4.png)
 ![caso_2](https://user-images.githubusercontent.com/69210578/98310797-aa7bad00-1fac-11eb-8e58-100ee4978f30.gif)
-![caso_2](https://user-images.githubusercontent.com/69210578/98310810-b0718e00-1fac-11eb-9acb-c56822b3671a.png)
+
 
 # Caso 3:
 * Condiciones de Borde:
@@ -69,8 +70,9 @@
 ![24](https://user-images.githubusercontent.com/69210578/98312279-1dd2ee00-1fb0-11eb-9723-d51c4b9e946a.png)
 
 
+![caso_3](https://user-images.githubusercontent.com/69210578/98313635-0a755200-1fb3-11eb-9f9f-dddc31c4e313.png)
 ![caso_3](https://user-images.githubusercontent.com/69210578/98310827-b6676f00-1fac-11eb-8de5-a6ce6801a8b2.gif)
-![caso_3](https://user-images.githubusercontent.com/69210578/98310830-b7989c00-1fac-11eb-8664-54e6b38c7378.png)
+
 
 # Caso 4:
 * Condiciones de Borde:
@@ -92,8 +94,9 @@
 ![16](https://user-images.githubusercontent.com/69210578/98312316-380ccc00-1fb0-11eb-857c-08fff942d571.png)
 ![24](https://user-images.githubusercontent.com/69210578/98312317-38a56280-1fb0-11eb-8531-8ce2fe060c36.png)
 
+![caso_4](https://user-images.githubusercontent.com/69210578/98313638-0ba67f00-1fb3-11eb-9272-a621d86947bb.png)
 ![caso_4](https://user-images.githubusercontent.com/69210578/98310837-bb2c2300-1fac-11eb-9397-e03d91d09f72.gif)
-![caso_4](https://user-images.githubusercontent.com/69210578/98310842-be271380-1fac-11eb-9b4c-694dda222337.png)
+
 
 # Caso 5:
 * Condiciones de Borde:
@@ -116,8 +119,9 @@
 ![24 (2)](https://user-images.githubusercontent.com/69210578/98312348-4ce95f80-1fb0-11eb-994b-f9f0c94130cd.png)
 
 
+![caso_5](https://user-images.githubusercontent.com/69210578/98313643-0d704280-1fb3-11eb-9129-a02cee3a09b9.png)
 ![caso_5](https://user-images.githubusercontent.com/69210578/98310847-c1220400-1fac-11eb-8880-9c01786ecce0.gif)
-![caso_5](https://user-images.githubusercontent.com/69210578/98310851-c2533100-1fac-11eb-95f6-d730b3a659e2.png)
+
 
 # Caso 6:
 * Condiciones de Borde:
@@ -139,9 +143,8 @@
 ![16](https://user-images.githubusercontent.com/69210578/98312392-62f72000-1fb0-11eb-9c1f-7e366f4c3fcb.png)
 ![24](https://user-images.githubusercontent.com/69210578/98312394-62f72000-1fb0-11eb-9bac-dbf5f1aa5a9a.png)
 
-
+![caso_6](https://user-images.githubusercontent.com/69210578/98313645-0f3a0600-1fb3-11eb-8528-756ed42fead3.png)
 ![caso_6](https://user-images.githubusercontent.com/69210578/98310857-c8491200-1fac-11eb-91a7-8ce775ebdfc4.gif)
-![caso_6](https://user-images.githubusercontent.com/69210578/98310860-ca12d580-1fac-11eb-8178-fc629f353344.png)
 
 # Caso 7:
 * Condiciones de Borde:
