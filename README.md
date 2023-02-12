@@ -1,4 +1,4 @@
-# MCOC-Entrega-5
+# Heat over Reinforced Concrete
 
 
 * Para todos los casos cuando se da una temperatura en específico lo que se hace es simplemente reemplazar esta en las condiciones iniciales como se puede apreciar en el código, un caso distinto es cuando se entrega un gradiente, aquí lo que se hace es sumarle el gradiente por dx (o dy, pero como son iguales siempre se deja como dx) a la temperatura inicial en el borde dado. Por último para el caso 7 se agrega una línea de código (línea 105) en la que se define el cambio sinusoidal de la temperatura en un día partiendo con una temperatura ambiente de 20°.     (No se explica cada caso en particular porque sería mucho repetir lo mismo, pero en todos se siguieron los pasos descritos)
